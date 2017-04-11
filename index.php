@@ -9,4 +9,7 @@ print "５ばんめ枝分かれ";
 print "６ばんめ";
 print "７ばんめ";
 
+print "飛び級番"
+print "のつぎ"
+
 ?>
