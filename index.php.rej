@@ -1,0 +1,13 @@
+diff a/index.php b/index.php	(rejected hunks)
+@@ -3,5 +3,10 @@
+ print "WWWWWWWWWWWWWW";
+ print "２ばんめ";
+ print "３ばんめ";
++print "４ばんめ";
++print "４ばんめ枝分かれ";
++
++print "飛び級番"
++print "のつぎ"
+ 
+ ?>
+\ No newline at end of file
